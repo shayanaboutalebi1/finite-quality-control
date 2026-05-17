@@ -1,0 +1,18 @@
+FINITE QUALITY CONTROL REPO INSTRUCTIONS
+
+1. Extract the ZIP file.
+2. Open a terminal inside the finite-quality-control folder.
+3. Initialize git:
+
+   git init
+   git add .
+   git commit -m "Initial finite QC templates"
+
+4. Create a GitHub repository named:
+   finite-quality-control
+
+5. Connect and push:
+
+   git branch -M main
+   git remote add origin git@github.com:Shayanaboutalebi1/finite-quality-control.git
+   git push -u origin main
