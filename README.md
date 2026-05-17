@@ -1,24 +1,14 @@
-# Finite Quality Control
+# Finite Quality Control - iV7 DeepMesh Edition
+Licensed to wareZwolf
 
-**Purpose**  
-Public, minimal template for documenting and escalating quality control when people who cannot do the job attempt to judge or approve it.
+Quality control templates and zero-tolerance gates for iV7 operations.
 
-## Principles
-- Factual
-- Actionable
-- Finite
+## Structure
+- hnc_zero_tolerance_gate.md
+- bds_compliance_checklist.md
+- warezwolf_security_assessment_template.md
+- evidence_ledger_template.md
+- hnc_rejection_example.md
 
-## How to use
-1. Open a QC issue.
-2. Attach evidence and specifications.
-3. Request remediation or escalation.
-4. Keep communication factual.
-
-## Outcomes
-- Independent technical review
-- Reassignment
-- Refund or remediation
-- Escalation
-
-## License
-MIT
+Author: Shayan Aboutalebi
+Purpose: Enforce measurable, auditable quality gates.
